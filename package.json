@@ -43,7 +43,7 @@
     "dependencies": {
         "async": "^1.3.0",
         "bitcoind-rpc": "git://github.com/bitchk-wallet/bitcoind-rpc.git",
-        "bitcore-lib": "git://github.com/yangcoin/bitcore-lib.git",
+        "bitcore-lib": "git://github.com/yangcoin/yangcore-lib.git",
         "body-parser": "^1.13.3",
         "colors": "^1.1.2",
         "commander": "^2.8.1",
